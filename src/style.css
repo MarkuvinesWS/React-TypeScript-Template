@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Merriweather;
+}
+h1 {
+
+    font-weight: bold;
+    color: orange;
+}
+
+.App {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.main {
+    text-align: center;
+}
+
+.paragraph {
+    font-weight: normal;
+}
